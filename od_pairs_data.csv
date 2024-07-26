@@ -1,0 +1,16 @@
+start_address,end_address,distance,duration
+"551 World Way, Los Angeles, CA 90045, USA","John Wayne Airport (SNA), 18601 Airport Way, Santa Ana, CA 92707, USA",39.8 mi,43 mins
+"551 World Way, Los Angeles, CA 90045, USA","San Diego International Airport (SAN), N Harbor Dr, San Diego, CA 92101, USA",123 mi,1 hour 53 mins
+"551 World Way,551 World Way, Los Angeles, CA 90045, USA Los Angeles, CA 90045, USA","3350 Ocean Park Blvd, Santa Monica, CA 90405, USA",13.8 mi,22 mins
+"1200 L.A. Live Way, Los Angeles, CA 90015, USA","10310 Sepulveda Blvd, Mission Hills, CA 91345, USA",27.2 mi,32 mins
+"1200 L.A. Live Way, Los Angeles, CA 90015, USA","8000 Woodley Ave, Van Nuys, CA 91406, USA",25.3 mi,31 mins
+"300 E Seaside Way, Long Beach, CA 90802, USA","1200 L.A. Live Way, Los Angeles, CA 90015, USA",24.0 mi,30 mins
+"777 Monterey Pass Rd, Monterey Park, CA 91754, USA","950 E 33rd St, Signal Hill, CA 90755, USA",19.2 mi,24 mins
+"444 S Central Ave, Los Angeles, CA 90013, USA","15 E Cerritos Ave, Anaheim, CA 92805, USA",28.3 mi,37 mins
+"444 S Central Ave, Los Angeles, CA 90013, USA","2875 Pomona Blvd, Pomona, CA 91768, USA",28.5 mi,33 mins
+"786 Orange Grove Blvd, Pasadena, CA 91103, USA","12201 Highland Ave, Rancho Cucamonga, CA 91739, USA",38.1 mi,39 mins
+"164 Utah St, San Francisco, CA 94103, USA","1989 Senter Rd, San Jose, CA 95112, USA",50.8 mi,56 mins
+"Kaiser Convention Center, 10 10th St, Oakland, CA 94607, USA","1989 Senter Rd, San Jose, CA 95112, USA",44.2 mi,53 mins
+"Perimeter Rd, West Palm Beach, FL 33415, USA","2100 NW 20th St, Miami, FL 33126, USA",71.7 mi,1 hour 16 mins
+"2301 S DuSable Lake Shore Dr, Chicago, IL 60616, USA","1450 Remington Blvd, Bolingbrook, IL 60490, USA",33.0 mi,38 mins
+"2301 S DuSable Lake Shore Dr, Chicago, IL 60616, USA","Unnamed Road, Chicago, IL 60666, USA",23.8 mi,39 mins
